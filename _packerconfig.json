@@ -2,6 +2,7 @@
   "extensionOrdering" : [],
   "globalIgnore" : [
     "^/_packerconfig\\.json$",
-    "^/\\."
+    "^/\\.",
+    "^/README\\.md$"
   ]
 }
