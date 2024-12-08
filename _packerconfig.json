@@ -1,0 +1,7 @@
+{
+  "extensionOrdering" : [],
+  "globalIgnore" : [
+    "^/_packerconfig\\.json$",
+    "^/\\."
+  ]
+}

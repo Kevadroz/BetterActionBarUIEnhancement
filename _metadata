@@ -1,9 +1,11 @@
 {
-  "name" : "better_actionbar_ui_enhandement_numbers",
+  "name" : "better_actionbar_ui_enhancement_numbers",
   "friendlyName" : "Better Action Bar for UI Enhancement (with Numbers)",
   "description" : "Modifies UI Enhancement's Action Bar in the style of Pit's Better Action Bar.\nBased on Xaliber's Fork (the bar has numbers).",
   "author" : "Kevadroz",
   "version" : "1.0",
+  "link" : "https://github.com/Kevadroz/BetterActionBarUIEnhancement/",
+  "steamContentId" : "3380359230",
   "tags" : "User Interface",
   "includes" : ["UI+", "Better Action Bar & Icons (Numbered & Tiered)"],
   "requires" : [],
